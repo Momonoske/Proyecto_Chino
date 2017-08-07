@@ -13,7 +13,7 @@
     </head>
     <body background="imag/fondo_5.jpg">
     <center><div> 
-            <h1 style="color: #D40052">¡Bienvenido!</h1>
+            <h1 style="color: #D40052">¡Bienvenido! este es un cambio</h1>
         
             <h1>Papelería <br><img src="imag/logo.png" width="120px" ></h1>
         
