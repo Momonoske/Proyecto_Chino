@@ -13,10 +13,9 @@
     </head>
     <body background="imag/fondo_5.jpg">
     <center><div> 
-            <img src="imag/p_adri.jpgadr">
             <h1 style="color: #D40052">¡Bienvenido!</h1>
         
-        <h1>Papelería ADRI</h1>
+            <h1>Papelería <br><img src="imag/logo.png" width="120px" ></h1>
         
         Para dar de alta nuevos empleados, da click en el siguiente botón:
         
