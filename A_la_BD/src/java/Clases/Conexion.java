@@ -18,7 +18,7 @@ public class Conexion {
 public Connection conn;
 public String cadenaConexion = "jdbc:mysql://localhost/ejemplo";
 public String nomuser="root";
-public String pass="root1234";
+public String pass="";
     /**
      * @param args the command line arguments
      */
